@@ -11,3 +11,4 @@ Dataset used in this project: [captcha_dataset](https://www.kaggle.com/datasets/
 3. https://discuss.tensorflow.org/t/neural-network-has-six-inputs-and-one-output-how-to-load-image-for-training/23139/4
 4. https://mathematica.stackexchange.com/questions/143691/crack-captcha-using-deep-learning
 5. https://stackoverflow.com/questions/68997513/concatenate-two-layers-in-keras-tensorflow
+6. https://medium.com/@sthanikamsanthosh1994/custom-models-with-tensorflow-part-1-multi-output-model-c01a78e67d47
