@@ -5,10 +5,15 @@ Dataset used in this project: [captcha_dataset](https://www.kaggle.com/datasets/
 - dataset has 10k images of 6 letters captcha
 - dataset has no labels
 
-## References
-1. https://github.com/JackonYang/captcha-tensorflow/blob/master/captcha-solver-tf2-4letters-AlexNet.ipynb
-2. https://www.kaggle.com/code/ervinvoon/captcha-identifier
-3. https://discuss.tensorflow.org/t/neural-network-has-six-inputs-and-one-output-how-to-load-image-for-training/23139/4
-4. https://mathematica.stackexchange.com/questions/143691/crack-captcha-using-deep-learning
-5. https://stackoverflow.com/questions/68997513/concatenate-two-layers-in-keras-tensorflow
-6. https://medium.com/@sthanikamsanthosh1994/custom-models-with-tensorflow-part-1-multi-output-model-c01a78e67d47
+## Files
+- captcha-images: images of example captcha
+- predict_images: images of predicted example captcha
+- captcha-reader.ipynb: notebook file to train model
+
+## Example Image
+![predict_1](predict_images/predict_1.png)
+![predict_2](predict_images/predict_2.png)
+![predict_3](predict_images/predict_3.png)
+
+## Conclusion
+The model need to be improved to be able to get more accurate prediction.
